@@ -63,7 +63,6 @@ void display()
     }
     cout << endl;
 }
-
 void binarySearch()
 {
     char ulang;
